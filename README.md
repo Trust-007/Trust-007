@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/simeontrust7" target="blank"><img src="https://img.shields.io/twitter/follow/simeontrust7?logo=twitter&style=for-the-badge" alt="simeontrust7" /></a> </p>
 
-- 🌱 I’m currently learning **Ruby and Ruby on Rails**
 
 - 👯 I’m looking to collaborate on **different projects**
 
